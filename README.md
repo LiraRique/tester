@@ -1,5 +1,5 @@
 # devops-aula02
 Will Smith
-Alicia Silverstone
+Silverstone
 Adam Sandler
 Angelina Jolie
