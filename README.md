@@ -1,4 +1,5 @@
 # devops-aula02
 Will Smith
-Tom Cruise
+Alicia Silverstone
 Adam Sandler
+Angelina Jolie
