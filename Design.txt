@@ -2,4 +2,5 @@
                                       Design
 
  Thiago - O web design é uma extensão da prática do design gráfico, onde o foco do projeto é a criação de
-web sites e documentos disponíveis no ambiente da World Wide Web
+web sites e documentos disponíveis no ambiente da World Wide Web. o Dev deverá ser responsavel por toda a 
+parte vísual.
