@@ -1,1 +1,0 @@
-A codificação seria a representação de um programa em determinado código, para torná-lo aceitável e compreensível por um sistema cibernético.
